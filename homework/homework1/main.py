@@ -15,4 +15,5 @@ print()
 print(type("25.7"))
 
 # Task 5: Un-stringify
-print("12" + "4")
+int('12') + int('4')
+
